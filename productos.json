@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Umbro futsal",
+        "price": 120000,
+        "image": "img/futsal1.jpg"
+    },
+    {
+        "name": "Umbro futsal",
+        "price": 100000,
+        "image": "img/futsal2.jpg"
+    },
+    {
+        "name": "Umbro futsal",
+        "price": 160000,
+        "image": "img/futsal3.jpg"
+    },
+    {
+        "name": "Umbro futsal",
+        "price": 130000,
+        "image": "img/futsal4.jpg"
+    },
+    {
+        "name": "Umbro futsal",
+        "price": 80000,
+        "image": "img/futsal5.jpg"
+    },
+    {
+        "name": "Umbro futsal",
+        "price": 145000,
+        "image": "img/futsal6.jpg"
+    }
+]
